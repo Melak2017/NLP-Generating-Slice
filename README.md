@@ -2,7 +2,7 @@
 
 This repository contains an implementation of an algorithm for generating slices of excessive context windows for ChatGPT 3.5. The goal is to handle inputs that exceed the standard size of the context window (128 MB) by dividing them into smaller, overlapping slices. The slices are generated based on a set of criteria to ensure proper coverage and distinctiveness.
 
-## Case 1: Slicing Algorithm
+## Slicing Algorithm
 
 ### Pipeline
 
@@ -57,4 +57,4 @@ pip install -r requirements.txt
 ---
 
 
-[back to top](#Case 1: Slicing Algorithm)
+[back to top](#SlicingAlgorithm)
