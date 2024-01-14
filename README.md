@@ -41,9 +41,6 @@ The slicing algorithm utilizes NLTK for natural language processing tasks, inclu
     ├── notebooks                        # Jupyter notebooks for exploration and experimentation         
     │   ├── pre_processing.ipynb      # notebook containing processing and modeling
     │
-    ├── src                        # # Scripts modules for data pre-processing 
-    |    ├── data_cleaner.py           # a python script for cleaning pandas dataframes.
-    |
     |    
     ├── requirements.txt               # a text file lsiting the projet's dependancies
     ├── .gitignore                     # files to ignore when committing
@@ -60,4 +57,4 @@ pip install -r requirements.txt
 ---
 
 
-[back to top](#content)
+[back to top](#Case 1: Slicing Algorithm)
