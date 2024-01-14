@@ -57,4 +57,4 @@ pip install -r requirements.txt
 ---
 
 
-[back to top](#SlicingAlgorithm)
+[back to top](#slicingalgorithm)
